@@ -1,1 +1,4 @@
+12 21 120 021 2 1 1200 0021 3 4 5 6 7 8 9 0
+13 14 15 16
+
 Hola qué tal, me llamo Oliver y estudio primero DAM.
